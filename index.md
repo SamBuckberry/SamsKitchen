@@ -1,25 +1,14 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: Home
 ---
 
-## You're ready to go!
-
-Start developing your Jekyll website.
-
----
-layout: home
-title: "Sam's Kitchen"
----
-
-**A personal recipe collection**
-
-<h1>Recipe Index</h1>
+# Recipe Index
 
 <ul>
-{% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
+  {% for text in site.texts %}
+    <li>
+      <a href="{{ site.baseurl }}{{ text.url }}">{{ text.title }}</a>
+    </li>
+  {% endfor %}
 </ul>
