@@ -49,5 +49,3 @@ resource: true
 
 8. **Serve:**
    - Serve the risotto immediately, garnished with fresh basil or parsley if desired.
-
-Enjoy your fennel, celery, and pea risotto!
