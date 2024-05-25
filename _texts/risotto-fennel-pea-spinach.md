@@ -13,7 +13,7 @@ resource: true
 - 2 garlic cloves, finely chopped
 - 1 litre vegetable or chicken stock
 - 2 tablespoons olive oil
-- 1 cup Arborio rice
+- 300 grams Carnaroli or Arborio rice
 - 1 cup dry white wine
 - 50g unsalted butter
 - 50g grated Parmesan cheese
