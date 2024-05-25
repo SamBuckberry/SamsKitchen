@@ -9,6 +9,7 @@ resource: true
 - 1 large fennel bulb, finely chopped
 - 2-3 celery stalks, finely chopped
 - 1 cup fresh or frozen peas
+- 1/2 cup frozen shredded spinach
 - 1 small onion, finely chopped
 - 2 garlic cloves, finely chopped
 - 1 litre vegetable or chicken stock
@@ -19,7 +20,7 @@ resource: true
 - 50g grated Parmesan cheese
 - Salt and pepper to taste
 - Fresh basil or parsley, chopped (optional)
-- 1/2 cup frozen shredded spinach.
+
 
 ### Instructions
 
