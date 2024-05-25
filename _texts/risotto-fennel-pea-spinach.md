@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fennel, Celery, and Pea Risotto"
+title:  "Fennel, Celery, Spinach and Pea Risotto"
 date:   2024-05-24
 resource: true
 ---
@@ -19,6 +19,7 @@ resource: true
 - 50g grated Parmesan cheese
 - Salt and pepper to taste
 - Fresh basil or parsley, chopped (optional)
+- 1/2 cup frozen shredded spinach.
 
 ### Instructions
 
@@ -38,8 +39,8 @@ resource: true
 5. **Cook the risotto:**
    - Start adding the warm stock, one ladleful at a time, stirring frequently. Wait until the stock is mostly absorbed before adding the next ladleful. Continue this process for about 18-20 minutes, or until the rice is creamy and just tender.
 
-6. **Add the peas:**
-   - About 5 minutes before the risotto is done, add the peas. Stir to combine and continue cooking until the peas are tender and the risotto is done.
+6. **Add the peas and spinach:**
+   - About 5 minutes before the risotto is done, add the peas and spinach. Stir to combine and continue cooking until the peas are tender and the risotto is done.
 
 7. **Finish the risotto:**
    - Remove the pan from the heat and stir in the butter and grated Parmesan cheese. Season with salt and pepper to taste.
