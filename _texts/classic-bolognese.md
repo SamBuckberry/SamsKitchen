@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "classic bolognese"
+date:   2024-05-25
+resource: true
+---
+
+
 # Classic Bolognese Sauce Recipe
 
 ### Ingredients:
