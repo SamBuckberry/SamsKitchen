@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Risotto with fennel and vodka"
+date:   2024-05-24
+resource: true
+---
+
 # Risotto with fennel and vodka
 
 ### Ingredients
