@@ -5,20 +5,19 @@ date:   2024-05-25
 resource: true
 ---
 
-
 # Classic Bolognese Sauce Recipe
 
 ### Ingredients:
 - 3 tbsp extra-virgin olive oil
-- 2 large onions, finely diced
-- 4 carrots, finely diced
-- 4 celery stalks, finely diced
+- 400 g onions, finely diced
+- 400 g carrots, finely diced
+- 200 g celery, finely diced
 - 6 cloves garlic, minced
-- 1.5 kg (3.3 lbs) ground beef (or a mix of beef and pork, ideally 70% beef, 30% pork)
-- 1 cup (240 ml) whole milk
-- 1 cup (240 ml) dry white wine
-- 2 cans (800 g total) San Marzano tomatoes, crushed by hand
-- 2 cups (480 ml) beef or chicken stock, preferably homemade
+- 1.5 kg ground beef (or a mix of beef and pork, ideally 70% beef, 30% pork)
+- 250 ml whole milk
+- 250 ml dry white wine
+- 800 g crushed tomatoes, ideally San Marzano tomatoes, crushed by hand
+- 500 ml beef or chicken stock, preferably homemade
 - 3 tbsp tomato paste
 - 4 bay leaves
 - 2 tsp dried oregano
@@ -66,4 +65,7 @@ resource: true
 - **Simmer Time:** The long, slow simmer allows the flavours to meld and deepen.
 - **Seasoning:** Season lightly throughout the cooking process and adjust at the end to avoid an overly salty sauce.
 
-Enjoy your rich, classic Bolognese sauce!
+### Footnote:
+**Use of Milk and Dry White Wine:**
+- **Milk:** Adding milk tenderizes the meat, balances the acidity of the tomatoes, and adds a subtle creaminess, enhancing the overall flavour and texture.
+- **Dry White Wine:** The wine deglazes the pan, adds complexity with its fruity and floral notes, and balances the acidity of the tomatoes. The alcohol evaporates, leaving behind rich, concentrated flavours.
