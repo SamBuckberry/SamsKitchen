@@ -20,8 +20,8 @@ resource: true
 - 500 ml beef or chicken stock, preferably homemade
 - 3 tbsp tomato paste
 - 4 bay leaves
-- 2 tsp dried oregano
-- 2 tsp dried basil
+- 1 tsp dried oregano
+- 1 tsp dried basil
 - Salt and freshly ground black pepper to taste
 - Fresh basil and grated Parmesan cheese for serving
 
