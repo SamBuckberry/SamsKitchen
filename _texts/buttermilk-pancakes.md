@@ -1,12 +1,11 @@
-—
+—--
 layout: post
 title:  “Grandpa’s Buttermilk Pancakes”
 date:   2022-06-22
 resource: true
 categories: Desserts
 tags: [Vegetarian]
-—
-
+—--
 
 From Grandpa’s recipe book:
 _This recipe is from my American trip diary when I visited MaryAnne and Al Reiner in June 1994 at their Corralitos Ranch in California. I visited for two wonderful weeks on my own, spending time between having fun with MaryAnne in her art studio, visiting her family, enjoying San Fransisco and the “Phantom of the Opera” with her sister, local trips to Monterey and environs with Alan and spending happy times just chatting and eating._
