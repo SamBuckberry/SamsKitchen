@@ -1,26 +1,47 @@
-# DOROTHY J's BUTTERMILK HOT CAKES
-Recipe from Grandma (Dawn Buckberry) exactly as in her recipe collection
+---
+layout: post
+title: "Grandpa's Buttermilk Pancakes"
+date: 2024-12-24
+resource: true
+categories: Breakfast
+tags: [Family Recipe, Pancakes, Vintage]
+---
 
-Dorothy J's Buttermilk Hot Cakes (MaryAnne's mother)
+I have fond memories of my Grandpa making these pancakes for dessert when I was a kid. 
 
-## Ingredients:
-- 1 cup sifted flour
-- 1 teaspoon baking powder
-- 1/2 teaspoon each of soda and salt
-- 1 tablespoon sugar
-- 1 egg
-- 1 cup buttermilk
-- 1 tablespoon softened butter
+From Grandma's recipe book: 
+_A treasured family recipe passed down through generations, Dorothy J's Buttermilk Hot Cakes are a classic breakfast treat. These hot cakes were first made by MaryAnne's mother, Dorothy J, and have been enjoyed for over 60 years. 
 
-## Instructions:
-1. Sift dry ingredients.
-2. Break egg and beat slightly, add 1 cup buttermilk and softened butter.
-3. Pour into dry ingredients and STIR - DO NOT BEAT.
-4. Add more liquid if necessary. Cook to perfection please.
+This recipe was shared by Grandma (Dawn Buckberry) in her collection, and it holds a special place in our hearts._
 
-*This recipe is at least 60 years old and possibly older than that.*
+---
 
-### Note:
-It is from my American trip diary when I visited MaryAnne and Al Reimer in June 1994 at their Corralitos Ranch in California. I visited for two wonderful weeks on my own, spending time between having fun with MaryAnne in her art studio, visiting her family, enjoying San Francisco and the "Phantom of the Opera" with her sister, local trips to Monterey and environs with Alan, and spending happy times just chatting and eating etc. etc..
+### Ingredients
+- 1 cup sifted flour  
+- 1 teaspoon baking powder  
+- ½ teaspoon each of soda and salt  
+- 1 tablespoon sugar  
+- 1 egg  
+- 1 cup buttermilk  
+- 1 tablespoon softened butter  
 
-MaryAnne made these Hotcakes for me for breakfast one day, we had them with maple syrup, egg, and meat. They were the best I've ever had and so I got the recipe. It belonged to MaryAnne's mother who was quite a "Gal" - seems to be the term for the older woman here! She was an artist also I am told and she died in 1993 at the ripe old age of 92.
+---
+
+### Instructions
+
+1. Sift the dry ingredients into a mixing bowl.  
+2. Break the egg into a separate bowl and beat slightly. Add the buttermilk and softened butter to the egg.  
+3. Pour the wet ingredients into the dry ingredients and **stir** — do not beat.  
+4. Add more liquid if necessary to achieve the desired consistency.  
+5. Cook on a hot griddle or frying pan until golden brown on both sides. Serve hot.  
+
+---
+
+### Note
+This recipe was recorded in Grandma's diary from her American trip in June 1994, when she visited MaryAnne and Al Reimer at their Corralitos Ranch in California.  
+
+During her two-week stay, Grandma enjoyed wonderful moments with MaryAnne in her art studio, exploring San Francisco, attending "The Phantom of the Opera," and visiting Monterey.  
+
+One morning, MaryAnne made these hot cakes for breakfast, serving them with maple syrup, eggs, and meat. Grandma described them as the best she’d ever had and made sure to get the recipe.  
+
+The recipe originally belonged to MaryAnne's mother, Dorothy J, who was an artist and lived to the age of 92, passing away in 1993. Dorothy J was fondly remembered as "quite a Gal."
