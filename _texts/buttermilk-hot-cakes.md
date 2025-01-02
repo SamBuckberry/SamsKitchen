@@ -16,7 +16,7 @@ This recipe was shared by Grandma (Dawn Buckberry) in her collection, and it hol
 ### Ingredients
 - 1 cup sifted flour  
 - 1 teaspoon baking powder  
-- ½ teaspoon each of soda and salt  
+- ½ teaspoon each of sodium bicarbonate (bicarb soda) and salt  
 - 1 tablespoon sugar  
 - 1 egg  
 - 1 cup buttermilk  
