@@ -1,18 +1,15 @@
 ---
 layout: post
 title: "Grandpa's Buttermilk Pancakes"
-date: 2024-12-24
 resource: true
-categories: Breakfast
-tags: [Family Recipe, Pancakes, Vintage]
 ---
 
 I have fond memories of my Grandpa making these pancakes for dessert when I was a kid. 
 
 From Grandma's recipe book: 
-_A treasured family recipe passed down through generations, Dorothy J's Buttermilk Hot Cakes are a classic breakfast treat. These hot cakes were first made by MaryAnne's mother, Dorothy J, and have been enjoyed for over 60 years. 
+A treasured family recipe passed down through generations, Dorothy J's Buttermilk Hot Cakes are a classic breakfast treat. These hot cakes were first made by MaryAnne's mother, Dorothy J, and have been enjoyed for over 60 years. 
 
-This recipe was shared by Grandma (Dawn Buckberry) in her collection, and it holds a special place in our hearts._
+This recipe was shared by Grandma (Dawn Buckberry) in her collection, and it holds a special place in our hearts.
 
 ---
 
